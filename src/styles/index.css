@@ -73,3 +73,13 @@
 .icon-yuedu:before {
   content: "\e61a";
 }
+.page-nav-bar {
+  background-color: #3296fa;
+}
+.page-nav-bar .van-nav-bar__title,
+.page-nav-bar .van-icon {
+  color: #fff;
+}
+body {
+  background-color: #f5f7f9;
+}
